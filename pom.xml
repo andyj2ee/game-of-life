@@ -203,6 +203,13 @@
             <version>1.9.0</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+				    <groupId>com.sun</groupId>
+				    <artifactId>tools</artifactId>
+				    <version>1.6</version>
+				    <scope>system</scope>
+				    <systemPath>/Applications/jenkins-1.559-0/java/lib/tools.jar</systemPath>
+				</dependency>
     </dependencies>
 
     <modules>
